@@ -1,4 +1,4 @@
-![derivation](http://i.imgur.com/smE1Uj3.png "Derivation")
+![derivation](http://i.imgur.com/OfEmI2K.png "Derivation")
 
 ======
 
