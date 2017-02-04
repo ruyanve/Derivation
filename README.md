@@ -34,7 +34,8 @@ This will be a reboot, partial remix of the Derivation texture pack for Minecraf
 ## Contact
 #### Developer/Company
 * Homepage: not yet
-* e-mail: ruyan@eclipse-guild.net
-* Twitter: [@twitterhandle](https://twitter.com/MichelWeinand "ruyan")
+* e-mail: not yet
+* Twitter: [@Amon ](https://twitter.com/EATMEBRAIN "Amon")
+* Twitter: [@ruyan](https://twitter.com/MichelWeinand "ruyan")
 
 [![Flattr this git repo](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=username&url=https://github.com/username/sw-name&title=sw-name&language=&tags=github&category=software) 
