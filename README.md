@@ -5,15 +5,10 @@
 
 This will be a reboot, partial remix of the Derivation texture pack for Minecraft.
 
-## Permission
-
-![permission](http://i.imgur.com/VDWhvuk.png)
-[MCF link](http://www.minecraftforum.net/forums/mapping-and-modding/resource-packs/1229198-32x-1-6-4-derivation-rpg?page=129#c2592)
 
 
 ## Contributors
 
-### Contributors on GitHub
 * [Levaunt](http://www.minecraftforum.net/members/Levaunt)
 * [JetStorm](http://www.minecraftforum.net/members/JetStorm)
 * [anew742](http://www.minecraftforum.net/members/anew742)
@@ -27,6 +22,12 @@ This will be a reboot, partial remix of the Derivation texture pack for Minecraf
 
 ## Version 
 * Version 0.1
+
+
+## Permission
+![permission](http://i.imgur.com/VDWhvuk.png)
+
+[MCF link](http://www.minecraftforum.net/forums/mapping-and-modding/resource-packs/1229198-32x-1-6-4-derivation-rpg?page=129#c2592)
 
 
 
