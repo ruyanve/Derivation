@@ -8,6 +8,10 @@
 			{ "model": "stone/4"},
 			{ "model": "stone/5"},
 			{ "model": "stone/6"},
+			{ "model": "stone/7"},
+			{ "model": "stone/8"},
+			{ "model": "stone/9"},
+			{ "model": "stone/10"}
 		]
     }
 }

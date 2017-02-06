@@ -1,9 +1,10 @@
-![derivation](http://i.imgur.com/EmB4Jia.png "Derivation")
+![derivation](http://i.imgur.com/mv1yxyT.png "Derivation")
 
+Derivation Derived
 ======
 
 
-This will be a reboot, partial remix of the Derivation texture pack for Minecraft.
+This will be a reboot of the Derivation texture pack for Minecraft.
 
 
 
