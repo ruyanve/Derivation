@@ -18,10 +18,12 @@ This will be a reboot of the Derivation texture pack for Minecraft.
 
 
 
-## License 
-* see [LICENSE](https://github.com/username/sw-name/blob/master/LICENSE.md) file
+## License
+![LICENSE](https://i.creativecommons.org/l/by-nc/4.0/88x31.png)
+This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.
+* see [LICENSE](https://github.com/ruyanve/Derivation/blob/master/LICENSE) file
 
-## Version 
+## Version
 * Version 0.1
 
 
@@ -39,4 +41,4 @@ This will be a reboot of the Derivation texture pack for Minecraft.
 * Twitter: [@Amon ](https://twitter.com/EATMEBRAIN "Amon")
 * Twitter: [@ruyan](https://twitter.com/MichelWeinand "ruyan")
 
-[![Flattr this git repo](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=username&url=https://github.com/username/sw-name&title=sw-name&language=&tags=github&category=software) 
+[![Flattr this git repo](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=username&url=https://github.com/username/sw-name&title=sw-name&language=&tags=github&category=software)
