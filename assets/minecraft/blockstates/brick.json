@@ -2,13 +2,13 @@
     "variants": {
         "normal": [
             { "model": "misc/brick" },
-			{ "model": "misc/brick1"},
-			{ "model": "misc/brick2"},
-			{ "model": "misc/brick3"},
-			{ "model": "misc/brick4"},
-			{ "model": "misc/brick5"},
-			{ "model": "misc/brick6"},
-			{ "model": "misc/brick7"}
+			{ "model": "misc/brick1" },
+			{ "model": "misc/brick2" },
+			{ "model": "misc/brick3" },
+			{ "model": "misc/brick4" },
+			{ "model": "misc/brick5" },
+			{ "model": "misc/brick6" },
+			{ "model": "misc/brick7" }
 		]
     }
 }
