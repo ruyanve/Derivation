@@ -1,0 +1,22 @@
+{
+    "variants": {
+        "normal": [
+            { "model": "stone/lapis_ore" },
+			{ "model": "stone/lapis_ore1" },
+			{ "model": "stone/lapis_ore2" },
+			{ "model": "stone/lapis_ore3" },
+			{ "model": "stone/lapis_ore4" },
+			{ "model": "stone/lapis_ore5" },
+			{ "model": "stone/lapis_ore6" },
+			{ "model": "stone/lapis_ore7" },
+			{ "model": "stone/lapis_ore8" },
+			{ "model": "stone/lapis_ore9" },
+			{ "model": "stone/lapis_ore10" },
+			{ "model": "stone/lapis_ore11" },
+			{ "model": "stone/lapis_ore12" },
+			{ "model": "stone/lapis_ore13" },
+			{ "model": "stone/lapis_ore14" },
+			{ "model": "stone/lapis_ore15" }
+		]
+    }
+}

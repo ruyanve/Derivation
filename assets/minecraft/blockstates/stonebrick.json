@@ -1,0 +1,17 @@
+{
+    "variants": {
+        "normal": [
+	{ "model": "stone/stonebrick_normal" },
+      		  { "model": "stone/stonebrick_normal1" },
+      		  { "model": "stone/stonebrick_normal2" },
+       		  { "model": "stone/stonebrick_normal3" },
+      		  { "model": "stone/stonebrick_normal4" },
+      		  { "model": "stone/stonebrick_normal5" },
+      		  { "model": "stone/stonebrick_normal6" },
+      		  { "model": "stone/stonebrick_normal7" },
+    		  { "model": "stone/stonebrick_normal8" },
+      		  { "model": "stone/stonebrick_normal9" },
+      		  { "model": "stone/stonebrick_normal10" }
+		]
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "variants": {
+        "normal": [
+            { "model": "stone/andesite" },
+			{ "model": "stone/andesite1" },
+			{ "model": "stone/andesite2" },
+			{ "model": "stone/andesite3" },
+			{ "model": "stone/andesite4" },
+			{ "model": "stone/andesite5" },
+			{ "model": "stone/andesite6" },
+			{ "model": "stone/andesite7" },
+			{ "model": "stone/andesite8" },
+			{ "model": "stone/andesite9" },
+			{ "model": "stone/andesite10" },
+			{ "model": "stone/andesite11" },
+			{ "model": "stone/andesite12" },
+			{ "model": "stone/andesite13" },
+			{ "model": "stone/andesite14" },
+			{ "model": "stone/andesite15" }
+		]
+    }
+}

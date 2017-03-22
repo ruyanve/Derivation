@@ -1,0 +1,22 @@
+{
+    "variants": {
+        "normal": [
+            { "model": "stone/diorite" },
+			{ "model": "stone/diorite1" },
+			{ "model": "stone/diorite2" },
+			{ "model": "stone/diorite3" },
+			{ "model": "stone/diorite4" },
+			{ "model": "stone/diorite5" },
+			{ "model": "stone/diorite6" },
+			{ "model": "stone/diorite7" },
+			{ "model": "stone/diorite8" },
+			{ "model": "stone/diorite9" },
+			{ "model": "stone/diorite10" },
+			{ "model": "stone/diorite11" },
+			{ "model": "stone/diorite12" },
+			{ "model": "stone/diorite13" },
+			{ "model": "stone/diorite14" },
+			{ "model": "stone/diorite15" }
+		]
+    }
+}
