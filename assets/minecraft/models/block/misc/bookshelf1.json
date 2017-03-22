@@ -1,6 +1,7 @@
 {
-    "parent": "block/cube_all",
+    "parent": "block/cube_column",
     "textures": {
-        "all": "blocks/bookshelf1"
+        "end": "blocks/daylight_detector_side",
+        "side": "blocks/bookshelf1"
     }
 }

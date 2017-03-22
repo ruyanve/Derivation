@@ -1,0 +1,29 @@
+{
+    "variants": {
+        "normal": [
+            { "model": "stone/coal_ore" },
+			{ "model": "stone/coal_ore1" },
+			{ "model": "stone/coal_ore2" },
+			{ "model": "stone/coal_ore3" },
+			{ "model": "stone/coal_ore4" },
+			{ "model": "stone/coal_ore5" },
+			{ "model": "stone/coal_ore6" },
+			{ "model": "stone/coal_ore7" },
+			{ "model": "stone/coal_ore8" },
+			{ "model": "stone/coal_ore9" },
+			{ "model": "stone/coal_ore10" },
+			{ "model": "stone/coal_ore11" },
+			{ "model": "stone/coal_ore12" },
+			{ "model": "stone/coal_ore13" },
+			{ "model": "stone/coal_ore14" },
+			{ "model": "stone/coal_ore15" },
+			{ "model": "stone/coal_ore16" },
+			{ "model": "stone/coal_ore17" },
+			{ "model": "stone/coal_ore18" },
+			{ "model": "stone/coal_ore19" },
+			{ "model": "stone/coal_ore20" },
+			{ "model": "stone/coal_ore21" },
+			{ "model": "stone/coal_ore22" }
+		]
+    }
+}

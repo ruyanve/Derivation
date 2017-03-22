@@ -1,0 +1,18 @@
+{
+    "variants": {
+        "normal": [
+            { "model": "stone/cobblestone" },
+			{ "model": "stone/cobblestone1" },
+			{ "model": "stone/cobblestone2" },
+			{ "model": "stone/cobblestone3" },
+			{ "model": "stone/cobblestone4" },
+			{ "model": "stone/cobblestone5" },
+			{ "model": "stone/cobblestone6" },
+			{ "model": "stone/cobblestone7" },
+			{ "model": "stone/cobblestone8" },
+			{ "model": "stone/cobblestone9" },
+			{ "model": "stone/cobblestone10" },
+			{ "model": "stone/cobblestone11" }
+		]
+    }
+}

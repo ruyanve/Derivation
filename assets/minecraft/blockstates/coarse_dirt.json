@@ -1,9 +1,13 @@
 {
     "variants": {
         "normal": [ 
-            { "model": "soil/coarse_dirt", "weight": 1 },
-            { "model": "soil/coarse_dirt2", "weight": 1 },
-            { "model": "soil/coarse_dirt3", "weight": 1 }
+            { "model": "soil/coarse_dirt" },
+          	   { "model": "soil/coarse_dirt1" },
+        	   { "model": "soil/coarse_dirt2" },
+         	   { "model": "soil/coarse_dirt3" },
+         	   { "model": "soil/coarse_dirt4" },
+         	   { "model": "soil/coarse_dirt5" },
+         	   { "model": "soil/coarse_dirt6" }
         ]
     }
 }
