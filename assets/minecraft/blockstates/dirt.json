@@ -1,0 +1,13 @@
+{
+    "variants": {
+        "normal": [
+            { "model": "soil/dirt" },
+			{ "model": "soil/dirt1" },
+			{ "model": "soil/dirt2" },
+			{ "model": "soil/dirt3" },
+			{ "model": "soil/dirt4" },
+			{ "model": "soil/dirt5" },
+			{ "model": "soil/dirt6" }
+		]
+    }
+}

@@ -1,0 +1,13 @@
+{
+    "variants": {
+        "normal": [
+            { "model": "stone/sandstone_normal" },
+			{ "model": "stone/sandstone_normal1" },
+			{ "model": "stone/sandstone_normal2" },
+			{ "model": "stone/sandstone_normal3" },
+			{ "model": "stone/sandstone_normal4" },
+			{ "model": "stone/sandstone_normal5" },
+			{ "model": "stone/sandstone_normal6" }
+		]
+    }
+}
