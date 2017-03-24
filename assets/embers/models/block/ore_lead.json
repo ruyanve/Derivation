@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "derivation:blocks/ore_lead",
+        "particle": "derivation:blocks/ore_lead"
+    }
+}

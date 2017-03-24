@@ -1,0 +1,12 @@
+{
+    "variants": {
+        "normal": [
+            { "model": "soil/soul_sand" },
+			{ "model": "soil/soul_sand1" },
+			{ "model": "soil/soul_sand2" },
+			{ "model": "soil/soul_sand3" },
+			{ "model": "soil/soul_sand4" },
+			{ "model": "soil/soul_sand5" }
+		]
+    }
+}
