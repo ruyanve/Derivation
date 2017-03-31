@@ -1,0 +1,88 @@
+{
+    "__createdwith": "opl's Model Creator",
+    "ambientocclusion": false,
+    "textures": {
+        "reed": "blocks/reeds",
+        "particle": "[mc path]"
+    },
+    "elements": [
+        {
+            "from": [2,0,2],
+            "to": [5,16,5],
+            "faces": {
+                "up": {
+                    "uv": [6.5,8,9.5,11],
+                    "texture": "#reed"
+                },
+                "west": {
+                    "uv": [6.5,0,9.5,16],
+                    "texture": "#reed"
+                },
+                "east": {
+                    "uv": [6.5,0,9.5,16],
+                    "texture": "#reed"
+                },
+                "north": {
+                    "uv": [6.5,0,9.5,16],
+                    "texture": "#reed"
+                },
+                "south": {
+                    "uv": [6.5,0,9.5,16],
+                    "texture": "#reed"
+                }
+            }
+        },
+        {
+            "from": [9,0,6],
+            "to": [12,16,9],
+            "faces": {
+                "up": {
+                    "uv": [6.5,8,9.5,11],
+                    "texture": "#reed"
+                },
+                "west": {
+                    "uv": [6.5,0,9.5,16],
+                    "texture": "#reed"
+                },
+                "east": {
+                    "uv": [6.5,0,9.5,16],
+                    "texture": "#reed"
+                },
+                "north": {
+                    "uv": [6.5,0,9.5,16],
+                    "texture": "#reed"
+                },
+                "south": {
+                    "uv": [6.5,0,9.5,16],
+                    "texture": "#reed"
+                }
+            }
+        },
+        {
+            "from": [6,0,12],
+            "to": [8,16,14],
+            "faces": {
+                "up": {
+                    "uv": [7,8.5,9,10.5],
+                    "texture": "#reed"
+                },
+                "west": {
+                    "uv": [7,0,9,16],
+                    "texture": "#reed"
+                },
+                "east": {
+                    "uv": [7,0,9,16],
+                    "texture": "#reed"
+                },
+                "north": {
+                    "uv": [7,0,9,16],
+                    "texture": "#reed"
+                },
+                "south": {
+                    "uv": [7,0,9,16],
+                    "texture": "#reed"
+                }
+            }
+        }
+    ]
+}

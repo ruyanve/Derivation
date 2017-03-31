@@ -1,0 +1,47 @@
+{
+    "variants": {
+        "snowy=false": [
+            { "model": "soil/grass_normal", "weight": 10 },
+            { "model": "soil/grass_normal", "y": 90, "weight": 10 },
+            { "model": "soil/grass_normal", "y": 180, "weight": 10 },
+            { "model": "soil/grass_normal", "y": 270, "weight": 10 },
+
+            { "model": "soil/grass_normal1", "weight": 10 },
+            { "model": "soil/grass_normal1", "y": 90, "weight": 10 },
+            { "model": "soil/grass_normal1", "y": 180, "weight": 10 },
+            { "model": "soil/grass_normal1", "y": 270, "weight": 10 },
+
+            { "model": "soil/grass_normal2", "weight": 10 },
+            { "model": "soil/grass_normal2", "y": 90, "weight": 10 },
+            { "model": "soil/grass_normal2", "y": 180, "weight": 10 },
+            { "model": "soil/grass_normal2", "y": 270, "weight": 10 },
+
+            { "model": "soil/grass_normal3", "weight": 10 },
+            { "model": "soil/grass_normal3", "y": 90, "weight": 10 },
+            { "model": "soil/grass_normal3", "y": 180, "weight": 10 },
+            { "model": "soil/grass_normal3", "y": 270, "weight": 10 },
+
+            { "model": "soil/grass_normal4", "weight": 10 },
+            { "model": "soil/grass_normal4", "y": 90, "weight": 10 },
+            { "model": "soil/grass_normal4", "y": 180, "weight": 10 },
+            { "model": "soil/grass_normal4", "y": 270, "weight": 10 },
+
+            { "model": "soil/grass_normal5", "weight": 1 },
+            { "model": "soil/grass_normal5", "y": 90, "weight": 1 },
+            { "model": "soil/grass_normal5", "y": 180, "weight": 1 },
+            { "model": "soil/grass_normal5", "y": 270, "weight": 1 },
+
+            { "model": "soil/grass_normal6", "weight": 1 },
+            { "model": "soil/grass_normal6", "y": 90, "weight": 1 },
+            { "model": "soil/grass_normal6", "y": 180, "weight": 1 },
+            { "model": "soil/grass_normal6", "y": 270, "weight": 1 },
+
+            { "model": "soil/grass_normal7", "weight": 10 },
+            { "model": "soil/grass_normal7", "y": 90, "weight": 10 },
+            { "model": "soil/grass_normal7", "y": 180, "weight": 10 },
+            { "model": "soil/grass_normal7", "y": 270, "weight": 10 }
+
+        ],
+        "snowy=true":  { "model": "soil/grass_snowed" }
+    }
+}

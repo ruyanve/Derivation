@@ -1,10 +1,14 @@
 {
     "__createdwith": "opl's Model Creator",
     "ambientocclusion": false,
+    "textures": {
+        "books": "blocks/bookshelf",
+        "wood": "blocks/crafting_table_top"
+    },
     "elements": [
         {
             "from": [1,1,1],
-            "to": [15,15,15],
+            "to": [15,7,15],
             "faces": {
                 "west": {
                     "texture": "missingtexture"
@@ -49,13 +53,14 @@
             "to": [16,16,16],
             "faces": {
                 "up": {
-                    "texture": "missingtexture"
+                    "texture": "#wood"
                 },
                 "down": {
-                    "texture": "missingtexture"
+                    "texture": "#wood"
                 },
                 "west": {
-                    "texture": "missingtexture"
+                    "uv": [0,0,16,1],
+                    "texture": "#wood"
                 },
                 "east": {
                     "texture": "missingtexture"
@@ -79,7 +84,8 @@
                     "texture": "missingtexture"
                 },
                 "west": {
-                    "texture": "missingtexture"
+                    "uv": [0,7,16,9],
+                    "texture": "#wood"
                 },
                 "east": {
                     "texture": "missingtexture"
@@ -133,7 +139,8 @@
             "to": [1,15,16],
             "faces": {
                 "west": {
-                    "texture": "missingtexture"
+                    "uv": [15,1,16,15],
+                    "texture": "#wood"
                 },
                 "east": {
                     "texture": "missingtexture"
@@ -142,7 +149,7 @@
                     "texture": "missingtexture"
                 },
                 "south": {
-                    "texture": "missingtexture"
+                    "texture": "#wood"
                 }
             }
         },
@@ -161,6 +168,25 @@
                 },
                 "south": {
                     "texture": "missingtexture"
+                }
+            }
+        },
+        {
+            "from": [1,8,1],
+            "to": [15,15,15],
+            "faces": {
+                "west": {
+                    "texture": "#books"
+                },
+                "east": {
+                    "texture": "missingtexture"
+                },
+                "north": {
+                    "uv": [0,1,14,8],
+                    "texture": "#books"
+                },
+                "south": {
+                    "texture": "#books"
                 }
             }
         }

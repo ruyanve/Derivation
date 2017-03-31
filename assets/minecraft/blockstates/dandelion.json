@@ -1,0 +1,9 @@
+{
+    "variants": {
+      "normal": [
+        { "model": "nature/dandelion" },
+        { "model": "nature/dandelion0" },
+        { "model": "nature/dandelion1" }
+    ]
+    }
+}

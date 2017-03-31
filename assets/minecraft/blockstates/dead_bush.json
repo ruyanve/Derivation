@@ -1,0 +1,9 @@
+{
+    "variants": {
+      "normal": [
+        { "model": "nature/dead_bush" },
+        { "model": "nature/dead_bush0" },
+        { "model": "nature/dead_bush1" }
+    ]
+    }
+}

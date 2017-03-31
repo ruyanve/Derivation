@@ -1,17 +1,21 @@
 {
     "variants": {
         "normal": [
-            { "model": "stone/stone" },
-			{ "model": "stone/stone1" },
-			{ "model": "stone/stone2" },
-			{ "model": "stone/stone3" },
-			{ "model": "stone/stone4" },
-			{ "model": "stone/stone5" },
-			{ "model": "stone/stone6" },
-			{ "model": "stone/stone7" },
-			{ "model": "stone/stone8" },
-			{ "model": "stone/stone9" },
-			{ "model": "stone/stone10" }
+            { "model": "stone/stone", "weight": 1 },
+			         { "model": "stone/stone1", "weight": 1 },
+			         { "model": "stone/stone2", "weight": 2 },
+			         { "model": "stone/stone3", "weight": 1 },
+			         { "model": "stone/stone4", "weight": 2 },
+			         { "model": "stone/stone5", "weight": 1 },
+			         { "model": "stone/stone6", "weight": 1 },
+			         { "model": "stone/stone7", "weight": 2 },
+			         { "model": "stone/stone8", "weight": 2 },
+			         { "model": "stone/stone9", "weight": 2 },
+               { "model": "stone/stone10", "weight": 2 },
+               { "model": "stone/stone11", "weight": 5 },
+               { "model": "stone/stone12", "weight": 2 },
+               { "model": "stone/stone13", "weight": 5 },
+               { "model": "stone/stone14", "weight": 5 }
 		]
     }
 }
