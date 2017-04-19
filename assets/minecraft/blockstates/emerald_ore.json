@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "normal": [
+            { "model": "stone/emerald_ore" },
+			{ "model": "stone/emerald_ore1" },
+			{ "model": "stone/emerald_ore2" },
+			{ "model": "stone/emerald_ore3" }
+		]
+    }
+}
