@@ -1,0 +1,34 @@
+{
+    "variants": {
+        "type=bottom": [
+			{ "model": "block/bricks_clay/brick_slab_0" },
+			{ "model": "block/bricks_clay/brick_slab_1" },
+			{ "model": "block/bricks_clay/brick_slab_2" },
+			{ "model": "block/bricks_clay/brick_slab_3" },
+			{ "model": "block/bricks_clay/brick_slab_4" },
+			{ "model": "block/bricks_clay/brick_slab_5" },
+			{ "model": "block/bricks_clay/brick_slab_6" },
+			{ "model": "block/bricks_clay/brick_slab_7" }
+		],
+        "type=top": [
+			{ "model": "block/bricks_clay/brick_slab_top_0" },
+			{ "model": "block/bricks_clay/brick_slab_top_1" },
+			{ "model": "block/bricks_clay/brick_slab_top_2" },
+			{ "model": "block/bricks_clay/brick_slab_top_3" },
+			{ "model": "block/bricks_clay/brick_slab_top_4" },
+			{ "model": "block/bricks_clay/brick_slab_top_5" },
+			{ "model": "block/bricks_clay/brick_slab_top_6" },
+			{ "model": "block/bricks_clay/brick_slab_top_7" }
+		],
+        "type=double": [
+			{ "model": "block/bricks_clay/brick_0" },
+			{ "model": "block/bricks_clay/brick_1" },
+			{ "model": "block/bricks_clay/brick_2" },
+			{ "model": "block/bricks_clay/brick_3" },
+			{ "model": "block/bricks_clay/brick_4" },
+			{ "model": "block/bricks_clay/brick_5" },
+			{ "model": "block/bricks_clay/brick_6" },
+			{ "model": "block/bricks_clay/brick_7" }
+		]
+    }
+}

@@ -1,0 +1,11 @@
+{
+	"variants": {
+		"": [
+			{ "model": "block/chiseled_deepslate_0" },
+			{ "model": "block/chiseled_deepslate_1" },
+			{ "model": "block/chiseled_deepslate_2" },
+			{ "model": "block/chiseled_deepslate_3" },
+			{ "model": "block/chiseled_deepslate" }
+		]
+	}
+}

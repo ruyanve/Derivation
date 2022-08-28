@@ -1,9 +1,6 @@
 {
-    "__comment": "JimStoneCraft - 2014",
-    "parent": "block/fence_inventory",
-    "textures": {
-        "texture": "blocks/fence_inventory_acacia",
-        "top": "blocks/fence_inventory_acacia_top",
-        "bottom": "blocks/fence_inventory_acacia_bottom"
-    }
+  "parent": "minecraft:block/fence_inventory",
+  "textures": {
+    "texture": "minecraft:block/acacia_planks"
+  }
 }

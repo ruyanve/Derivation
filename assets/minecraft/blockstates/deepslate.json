@@ -1,0 +1,23 @@
+{
+    "variants": {
+        "": [
+            { "model": "block/deepslate", "weight":20 },
+            { "model": "block/deepslate_0", "weight":20 },
+            { "model": "block/deepslate_1", "weight":20 },
+            { "model": "block/deepslate_2", "weight":20 },
+            { "model": "block/deepslate_3", "weight":20 },
+            { "model": "block/deepslate_4", "weight":20 },
+            { "model": "block/deepslate_5", "weight":20 },
+            { "model": "block/deepslate_6", "weight":20 },
+            { "model": "block/deepslate_7", "weight":20 },
+            { "model": "block/deepslate_8", "weight":20 },
+            { "model": "block/deepslate_9", "weight":20 },
+            { "model": "block/deepslate_10", "weight":20 },
+            { "model": "block/deepslate_11", "weight":20 },
+            { "model": "block/deepslate_12", "weight":20 },
+            { "model": "block/deepslate_13", "weight":20 },
+            { "model": "block/deepslate_14", "weight":20 },
+            { "model": "block/deepslate_15", "weight":1 }
+        ]
+    }
+}

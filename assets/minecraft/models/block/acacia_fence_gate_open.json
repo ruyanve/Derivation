@@ -1,9 +1,6 @@
 {
-    "__comment": "JimStoneCraft - 2014",
-    "parent": "block/fence_gate_open",
-    "textures": {
-        "texture": "blocks/fence_gate_acacia_open",
-        "top": "blocks/fence_gate_acacia_top",
-        "bottom": "blocks/fence_gate_acacia_bottom"
-    }
+  "parent": "minecraft:block/template_fence_gate_open",
+  "textures": {
+    "texture": "minecraft:block/acacia_planks"
+  }
 }
